@@ -2,67 +2,6 @@ body {
     margin: 0px;
 }
 
-.ImagenDeFondo{
-position: absolute;
-z-index: -1;
-left: 0;
-bottom: 0;
-/* opacity: 0.2;     */
-
-
-    width: 100%;
-    height: 100%;
-    background-image: url(../images/edae34e6-b099-4c86-a54f-4ae640be6260.jpg);
-    background-size:cover;
-    background-position: center center;
-    
-    background-repeat: no-repeat;
-    
-    /* background-attachment: fixed; */
-}
-
-.MenuBarra{
-    display: flex;
-    justify-content: space-around;
-    font-size:large;
-    
-}
- .socialMedia{
-    display: flex;
-    justify-content: end;
-    align-items: center;
-    position:absolute;
-    width: 95%;
-    bottom: 0;
- }
-
- .socialMediaIcon {
-    margin: 35px;
-    
- }
- .TituloInicio{
-    margin-top: 100px;
-    color: #C0C0C0;
-    font-size:50px ;
-    text-align: center;
- }
-.H2Inicio{
-    color: #C0C0C0;
-    text-align: center;
-}
-.Pinguino{
-    text-align: center;
-
-}
- ul{
-    list-style: none;
- }
- 
- .Probando{
-    display: flex;
-    align-items: center;
- }
-
 
 .VideosGaleria{
     
@@ -70,12 +9,7 @@ bottom: 0;
     margin-left: 170px;
      
 }
-.VideosGaleria>iframe{
-   
-   
 
-
-}
 .GaleriaFotosGrupo2{
     width:100%;
 
@@ -96,10 +30,6 @@ bottom: 0;
     text-size-adjust: 25px;
     margin-left: 250px; 
     margin-right: 250px;
-}
-.ColorFondoSobremi{
-
- background-image: linear-gradient( 135deg, #F05F57 10%, #360940 100%);;
 }
 .MainGaleria{
     background-color: black;
