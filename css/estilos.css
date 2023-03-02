@@ -1,28 +1,8 @@
 body {
     margin: 0px;
 }
-
-
-.VideosGaleria{
-    
-    padding-top: 20px;
-    margin-left: 170px;
-     
-}
-
-.GaleriaFotosGrupo2{
-    width:100%;
-
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-   
-}
-
-.GaleriaFotosGrupo2 > img {
-    margin: 20px;
-    max-width: 500px;
-    object-fit: contain;
+.mi-clase{
+    max-width: 1000px;
 }
 
 .aboutMe{
@@ -31,17 +11,7 @@ body {
     margin-left: 250px; 
     margin-right: 250px;
 }
-.MainGaleria{
-    background-color: black;
-}
 
-.h1Galeria{
-    padding-top: 95px;
-    margin-left: 70px;
-    text-align:left;
-   color: #C0C0C0;
-   text-decoration: underline;
-}
 
 .Album{
     display: flex;
@@ -60,6 +30,7 @@ body {
 .Sencillos>iframe{
     max-width: 600px;
 }
+
 
 .contacto{
     padding-top:100px;
@@ -85,8 +56,4 @@ body {
     text-align: right;
     max-width:370px;
     font-size: xx-large;
-}
-.HacheUno{
-    font-size:x-large;
-    text-align:left;
 }
